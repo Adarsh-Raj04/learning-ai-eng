@@ -97,16 +97,16 @@ By the end of this journey, you should be able to:
 
 ```text
 .
-├── README
-├── foundations/       # Python, software engineering, APIs, and tooling
-├── data/              # Data preparation, validation, and analysis
-├── machine-learning/  # Classical ML concepts and experiments
-├── deep-learning/     # Neural networks and deep-learning exercises
-├── generative-ai/     # LLMs, prompting, embeddings, and RAG
-├── projects/          # End-to-end applications and case studies
-├── evaluations/       # Quality, safety, and performance evaluation
-├── deployment/        # Services, containers, CI/CD, and operations
-└── notes/             # Explanations, decisions, and useful references
+├── README.md              # Learning roadmap and repository guide
+├── foundations/           # Python, software engineering, APIs, and tooling
+├── data/                  # Data preparation, validation, and analysis
+├── machine-learning/      # Classical ML concepts and experiments
+├── deep-learning/         # Neural networks and deep-learning exercises
+├── generative-ai/         # LLMs, prompting, embeddings, and RAG
+├── projects/              # End-to-end applications and case studies
+├── evaluations/           # Quality, safety, and performance evaluation
+├── deployment/            # Services, containers, CI/CD, and operations
+└── notes/                 # Explanations, decisions, and useful references
 ```
 
 > Directories may evolve as the repository grows. Each section should remain focused, reproducible, and easy to navigate.
