@@ -529,7 +529,8 @@ The chain rule is:
 $$
 \frac{dy}{dx}
 =
-\frac{dy}{dg}\frac{dg}{dx}
+\frac{dy}{dg}
+\frac{dg}{dx}
 $$
 
 ### ML relevance
